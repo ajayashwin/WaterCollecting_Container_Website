@@ -1,0 +1,123 @@
+.mainconatiner{
+    width: 100%;
+    height: 130vh;
+    background-size: cover;
+}
+
+
+.waterContainer{
+    width: 300px;
+    height: 402.5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 0px;
+    border-top-color:white;
+}
+
+.waterlevelcontaiiner1{
+    width: 100%;
+    height: 335px;
+    margin-top: 65px;
+    background-color: aqua;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.waterlevelcontaiiner2{
+    width: 100%;
+    height: 335px;
+    margin-top: 65px;
+    background-color:aqua;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.waterlevelcontaiiner3{
+    width: 100%;
+    height: 335px;
+    margin-top: 65px;
+    background-color:AQUA;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.horizontalpipe{
+    width: 50px;
+    height: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background-color: aqua;
+}
+.verticalpipe{
+    width: 20px;
+    height: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-top: -3px;
+}
+.verticalpipetapConatiner{
+    margin-top: -24px;
+}
+.containerBtntap{
+    margin-left: -5px;
+    width: 30px;
+    height: 10px;
+    background-color: white;
+   
+}
+.fullpipeconatiner{
+    align-content: end;
+    margin-bottom: -40px;
+}
+.waterflowcontainer1{
+    width: 15px;
+    height: 320px;
+    border-color: black;
+    background-color: aqua;
+    margin-bottom: -293px;
+    margin-left: 2.5px;
+    z-index: 2;
+}
+.waterflowcontainer2{
+    width: 15px;
+    height: 320px;
+    border-color: black;
+    background-color:aqua;
+    margin-bottom: -293px;
+    margin-left: 2.5px;
+    z-index: 2;
+}
+.waterflowcontainer3{
+    width: 15px;
+    height: 320px;
+    border-color: black;
+    background-color: aqua;
+    margin-bottom: -293px;
+    margin-left: 2.5px;
+    z-index: 2;
+}
+.bottomcontainerOuter{
+    width: 1454px;
+    height: 304px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-top-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.bootomcontainerwater{
+    width: 1450px;
+    height: 0px;
+    margin-top: 100px;
+    background-color: aqua;
+    z-index: 1;
+    position:absolute;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
